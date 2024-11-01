@@ -10,7 +10,7 @@
 - Programming Languages: Beginner in Python and C++
 
 ## Connect with me
-- [Discord]search by username(err_0rr)
+- [Discord] Search by username(err_0rr)
 
 ## My Repositories
 - [Python](https://github.com/Minka69/Python)
