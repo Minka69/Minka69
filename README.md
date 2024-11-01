@@ -9,9 +9,6 @@
 ## Skills
 - Programming Languages: Beginner in Python and C++
 
-## Connect with me
-- [Discord] Search by username(err_0rr)
-
 ## My Repositories
 - [Python](https://github.com/Minka69/Python)
 - [C++](https://github.com/Minka69/Cpp)
