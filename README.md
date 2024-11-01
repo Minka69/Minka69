@@ -1,4 +1,4 @@
-# Hello, I'm [Mark] 👋
+# Hello, I'm Mark 👋
 
 ## About Me
 - 🔭 I’m currently working on [Nothing].
