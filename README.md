@@ -10,7 +10,5 @@
 - Programming Languages:
 - Beginner in Python
 
-## My Repositories
-- [Python](https://github.com/Minka69/Python)
+## My Website
 - [Website](https://minka69.github.io/)
-- [C++](https://github.com/Minka69/Cpp)
