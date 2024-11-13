@@ -9,10 +9,7 @@
 ## Skills
 - Programming Languages:
 - Beginner in Python
-- Beginner in HTML
-- Beginner in CSS
-- Beginner in JavaScript
 
 ## My Repositories
 - [Python](https://github.com/Minka69/Python)
-- [Website](https://github.com/Minka69/Website)
+- [Website](https://minka69.github.io/)
