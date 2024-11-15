@@ -8,7 +8,7 @@
 
 ## Skills
 - Programming Languages:
-- Beginner in Python
+- Beginner in Python and LUA
 
 ## My Website
 - [Website](https://minka69.github.io/)
