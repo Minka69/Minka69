@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 I’m currently working on a [Website].
-- 🌱 I’m learning [Python].
+- 🌱 I’m learning [Python, LUA].
 - 📫 How to reach me: [Discord: err_0rr].
 - ⚡ Fun fact: [I like running!].
 
