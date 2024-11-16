@@ -1,7 +1,7 @@
 # Hello, I'm Mark 👋
 
 ## About Me
-- 🔭 I’m currently working on a [Website].
+- 🔭 I’m currently working on a [].
 - 🌱 I’m learning [Python, LUA].
 - 📫 How to reach me: [Discord: err_0rr].
 - ⚡ Fun fact: [I like running!].
