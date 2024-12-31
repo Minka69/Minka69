@@ -2,13 +2,13 @@
 
 ## About Me
 - 🔭 I’m currently working on a [].
-- 🌱 I’m learning [Python, LUA].
-- 📫 How to reach me: [Discord: err_0rr].
+- 🌱 I’m learning [Python,C].
+- 📫 How to reach me: [Discord: 5.e.5].
 - ⚡ Fun fact: [I like running!].
 
 ## Skills
 - Programming Languages:
-- Beginner in Python and LUA
+- Beginner in Python and C
 
 ## My Website
 - [Website](https://minka69.github.io/)
