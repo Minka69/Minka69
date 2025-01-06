@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minka69&label=Profile%20views&color=0e75b6&style=flat" alt="minka69" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning: **Python**
 
-- ⚡ Fun fact **I love running**
+- ⚡ Fun fact: **I love running**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> Discord: 5.e.5</p>
