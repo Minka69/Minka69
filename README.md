@@ -6,7 +6,7 @@
 - ⚡ Fun fact **I love running**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> **Discord:** 5.e
+<p align="left"> _Discord:_ 5.e
 5</p>
 
 <h3 align="left">Languages and Tools:</h3>
