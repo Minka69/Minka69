@@ -12,3 +12,6 @@
 
 ## My Website
 - [Website](https://minka69.github.io/)
+
+## GitHub Stats
+![minka69btw's GitHub stats](https://github-readme-stats.vercel.app/api?username=minka69btw&show_icons=true&theme=radical)
