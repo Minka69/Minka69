@@ -18,6 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/5ee5/5ee5/main/snake.svg" alt="Snake animation" />
+<img src="https://githubusercontent.com/5ee5/5ee5/main/snake.svg" alt="Snake animation" />
 
 ###
