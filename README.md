@@ -17,7 +17,3 @@
 </div>
 
 ###
-
-<img src="https://githubusercontent.com/5ee5/5ee5/output/snake.yml" alt="Snake animation" />
-
-###
